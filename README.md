@@ -1,4 +1,6 @@
-### Hi there 👋
+### Howdy 👋
+
+My name's Clifford (Cliff/Clifford/pick your poison). I'm a Bay Area native born and raised. Currently, I'm a software engineer over at LinkedIn SF.
 
 <!--
 **clifflee/clifflee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
